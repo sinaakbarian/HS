@@ -1,16 +1,13 @@
-### 1. How do you set up a local python dev environment?  
+### 1. How do you set up a local Python dev environment?  
 - What IDE do you use?
 - How do you set up a Python production environment in Linux?
-  - List the CLI commands if possible.
+ - List the CLI commands if possible.
 
 
-Setting up a local Python development environment and a Python production environment on Linux involves several steps. Here's a general overview:
+Here are the general steps for setting up a local Python development environment and a Python production environment on Linux involves:
 
-1. Local Python Development Environment:
-     - I usually use Visual Studio Code (VS Code) as an Integrated Development Environment (IDE).
-       
-2. Python Production Environment on Linux:
-   - Install Python: Check if Python is already installed by running `python --version` or `python3 --version`. If not, install Python using the package manager specific to your Linux distribution. For example, on Ubuntu, you can use:
+Select an IDE: Several options are available for Python development, and my popular choice is Visual Studio Code (VS Code). It offers a range of features and extensions for an enhanced coding experience.
+2. Python Production Environment on Linux: Check if Python is already installed by running `python --version` or `python3 --version`. If not, install Python using the package manager specific to the Linux distribution. For example, on Ubuntu, you can use:
      ```
      sudo apt update
      sudo apt install python3
@@ -34,7 +31,7 @@ Setting up a local Python development environment and a Python production enviro
    - Set up your project: Create the necessary directory structure for your project and start building your application.
 
 ---
-### 2. Are you familiar using any linux distro?
+### 2. Are you familiar with using any Linux distro?
 - crontab
 - ssh
 - nfs
