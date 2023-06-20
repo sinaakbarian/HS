@@ -21,7 +21,7 @@ Here are the general steps for setting up a local Python development environment
      ```
      python3 -m venv myenv
      ```
-     Activate the virtual environment using:
+   - Activate the virtual environment using:
      ```
      source myenv/bin/activate
      ```
