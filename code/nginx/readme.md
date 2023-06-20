@@ -1,1 +1,1 @@
-##nginx configuration file
+## nginx configuration file
